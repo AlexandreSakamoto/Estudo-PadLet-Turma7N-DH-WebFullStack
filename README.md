@@ -2,7 +2,7 @@
 A proposta é fazer uma cópia funcinal do site padlet da pagina do nosso grupo.
 Para colocar em prática o uso compartilhado do GITHUB e de quebras treinar HTML e JAVASCRIPT.
 
-##https://padlet.com/gbrunetti/9k5ondefdjl1dsli
+## https://padlet.com/gbrunetti/9k5ondefdjl1dsli
 
 A ideia é criarmos um fluxo de trabalho de foram que todos os colegas da turma possam contribuir e depois adicionar ao seu repositório. Poderemos validar e melhorar o projeto.
 Não se trata do projeto integrador, mas poderá servir caso algum aluno não encontre um tema.
