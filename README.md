@@ -4,7 +4,7 @@ Para colocar em prática o uso compartilhado do GITHUB e de quebras treinar HTML
 
 ## https://padlet.com/gbrunetti/9k5ondefdjl1dsli
 
-A ideia é criarmos um fluxo de trabalho de foram que todos os colegas da turma possam contribuir e depois adicionar ao seu repositório. Poderemos validar e melhorar o projeto.
+A ideia é criarmos um fluxo de trabalho e de quebra, todos os colegas da turma possam contribuir e depois adicionar ao seu repositório. Poderemos validar e melhorar o projeto ao longo do curso.
 Não se trata do projeto integrador, mas poderá servir caso algum aluno não encontre um tema.
 
 - A principio poderemos contribuir pessoalmente com os as informações disponibilizadas no Padlet original, mas fazendo isso via código.
