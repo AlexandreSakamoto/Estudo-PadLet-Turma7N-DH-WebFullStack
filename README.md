@@ -1,5 +1,5 @@
 # Estudo-compartilhado-padlet
-A proposta é fazer uma cópia funcinal do site padlet da pagina do nosso grupo.
+A proposta é fazer uma cópia funcional do site padlet da pagina do nosso grupo.
 Para colocar em prática o uso compartilhado do GITHUB e de quebras treinar HTML e JAVASCRIPT.
 
 ## https://padlet.com/gbrunetti/9k5ondefdjl1dsli
